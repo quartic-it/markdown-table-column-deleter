@@ -1,17 +1,17 @@
 VSCode extension to delete the current selected column in a markdown table.
 
-# Install
+# Installation
 
 Install extension from VSCode marketplace.
 
 https://marketplace.visualstudio.com/items?itemName=quartic-it.markdown-table-column-deleter
 
-# Use
+# Usage
 
 - In Markdown table, place the cursor in the column you want to delete
 - In command palette, select "Delete Column in Markdown Table"
 
-# Develop
+# Development
 
 Clone:
 
